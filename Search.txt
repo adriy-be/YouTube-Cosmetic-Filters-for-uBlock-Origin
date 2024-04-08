@@ -1,11 +1,11 @@
-! Title:  YouTube-Cosmetic-Filters-for-uBlock-Origin - Search results only
+! Title:  YouTube-Cosmetic-Filters-for-uBlock-Origin - Search results only - french
 ! Description: Cosmetic filters to improve the search results.
 ! Home: https://github.com/Onsotumenh/YouTube-Cosmetic-Filters-for-uBlock-Origin
 
 ! Search Results
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/For you/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/People also watched/i))
-www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Previously watched/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Pour vous/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Les internautes ont aussi regardé/i))
+www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Regardées précédemment/i))
 www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related to your search/i))
 www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/Related Movies/i))
 www.youtube.com##ytd-shelf-renderer.style-scope:has(span:has-text(/New for you/i))
